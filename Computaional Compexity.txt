@@ -1,0 +1,11 @@
+Time complexity
+---------------
+The doBracketsMatch has a time complexity of O(n).
+This is because there is only one loop thus the execution 
+time is linear.
+
+Space Complexity
+----------------
+The doBracketsMatch fuction store values in a stack data structure
+within the loop, therefore, the space complexity is directly 
+propositional to the size of inputString.
